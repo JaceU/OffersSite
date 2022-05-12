@@ -6,17 +6,25 @@ namespace OffersSite.Pages;
 
 public class IndexModel : PageModel
 {
-    public List<User> Users;
+    [ViewData]
+    public List<User> Users { get; set; }
     private readonly ILogger<IndexModel> _logger;
-    private OffersContext Context;
+    private OffersRetriever Retriever;
 
-    public IndexModel(ILogger<IndexModel> logger, OffersContext context)
+    public IndexModel(ILogger<IndexModel> logger)
     {
         _logger = logger;
-        Context = context;
     }
 
     public void OnGet()
     {
+        Retriever = new OffersRetriever();
+        Users = Retriever.getUsers();
+    }
+    
+    public void OnGetSearchForm()
+    {
+        Retriever = new OffersRetriever();
+        Users = Retriever.getUsersByName(Request.Query["NameSearch"]);
     }
 }

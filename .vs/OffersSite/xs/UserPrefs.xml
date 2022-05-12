@@ -1,13 +1,22 @@
 ﻿<Properties StartupConfiguration="{7C4F6548-AC07-41A0-9E03-3317988293F1}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="OffersSite/Migrations/20220511164930_CreateTestDB.Designer.cs">
+    <Files>
+      <File FileName="OffersSite/Migrations/20220511164930_CreateTestDB.Designer.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="OffersSite" expanded="True" selected="True">
-            <Node name="OffersSite" expanded="True" />
+          <Node name="OffersSite" expanded="True">
+            <Node name="OffersSite" expanded="True">
+              <Node name="Migrations" expanded="True">
+                <Node name="20220511164930_CreateTestDB.cs" expanded="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>

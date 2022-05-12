@@ -8,8 +8,9 @@ builder.Services.AddRazorPages();
 
 builder.Services.AddControllers();
 
-builder.Services.AddDbContextPool<OffersContext>(
-    options => options.UseSqlite("Data Source=|DataDirectory|test.db"));
+// builder.Services.AddDbContextPool<OffersContext>(
+//     options => options.UseSqlite("Data Source=test.db"));
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

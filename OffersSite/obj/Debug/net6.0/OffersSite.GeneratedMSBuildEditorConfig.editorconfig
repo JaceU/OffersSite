@@ -15,12 +15,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/fiflak/RiderProjects/OffersSite/OffersSite
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/fiflak/RiderProjects/OffersSite/OffersSite/Pages/AddOffer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRkT2ZmZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/fiflak/RiderProjects/OffersSite/OffersSite/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/fiflak/RiderProjects/OffersSite/OffersSite/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fiflak/RiderProjects/OffersSite/OffersSite/Pages/Partial Views/AddOfferForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFydGlhbCBWaWV3cy9BZGRPZmZlckZvcm0uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/fiflak/RiderProjects/OffersSite/OffersSite/Pages/Privacy.cshtml]

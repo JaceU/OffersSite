@@ -52,3 +52,4 @@
 /Users/fiflak/RiderProjects/OffersSite/OffersSite/obj/Debug/net6.0/ref/OffersSite.dll
 /Users/fiflak/RiderProjects/OffersSite/OffersSite/bin/Debug/net6.0/Humanizer.dll
 /Users/fiflak/RiderProjects/OffersSite/OffersSite/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/fiflak/RiderProjects/OffersSite/OffersSite/bin/Debug/net6.0/Web.config

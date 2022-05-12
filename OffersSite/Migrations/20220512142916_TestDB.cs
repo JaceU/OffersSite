@@ -4,7 +4,7 @@
 
 namespace OffersSite.Migrations
 {
-    public partial class CreateTestDB : Migration
+    public partial class TestDB : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
